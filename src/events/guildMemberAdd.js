@@ -12,7 +12,7 @@ module.exports = {
         const guild = member.guild;
         const nickname = member.displayName;
 
-        const channel = client.channels.cache.get("1214969681614741527"); // lobby
+        const channel = client.channels.cache.get("Channel ID"); // lobby
 
         const embed = new EmbedBuilder();
         channel.send(`${user}`)

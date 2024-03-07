@@ -15,6 +15,7 @@ Sample appearance
 npm init
 npm i discord.js
 npm i dotenv
+npm i discord-api-types
 ```
 - Next You have to copy your discord bot token and send it to .env file [DiscordDeveloperPortal](https://discord.com/developers/docs/intro)
 ```env
